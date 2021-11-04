@@ -3,6 +3,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=someStranger8&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someStranger8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 - I’m currently working on obliterating the world
 - I’m currently learning C, java, javascript, and R
