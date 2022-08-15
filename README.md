@@ -24,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someStranger8&layout=compact&theme=tokyonight)](https://github.com/someStranger8/someStranger8)
 
-
+---
 
 - I’m currently working on obliterating the world
 - I’m looking to collaborate on something raspberry pi related
