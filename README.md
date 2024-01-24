@@ -9,5 +9,7 @@ I'm a backend developer who loves to work on stuff with Linux and cybersecurity.
 - Currently working on <a href="https://github.com/someStranger8/Upsilon">Upsilon</a> and <a href="https://github.com/someStranger8/potato-gpt">Potato-GPT</a>
 
 ## Github Stats 
-![someStranger8's GitHub stats](https://github-readme-stats.vercel.app/api?username=someStranger8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someStranger8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+![someStranger8's GitHub stats](https://github-readme-stats.vercel.app/api?username=someStranger8&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someStranger8&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
