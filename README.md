@@ -6,7 +6,6 @@ I'm a backend developer who loves to work on stuff with Linux and cybersecurity.
 
 - Open to project collaborations
 - Contact me at someStranger87@gmail.com
-- Currently working on <a href="https://github.com/someStranger8/Upsilon">Upsilon</a> and <a href="https://github.com/someStranger8/potato-gpt">Potato-GPT</a>
 
 ## Github Stats 
 
