@@ -1,7 +1,6 @@
 
 # Hello 👋
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)](https://en.wikipedia.org/wiki/Open_source)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=someStranger8&left_color=green&right_color=red)
 
 I'm a backend developer who loves to work on stuff with Linux and cybersecurity.
 
