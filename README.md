@@ -2,10 +2,19 @@
 # Hello 👋
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)](https://en.wikipedia.org/wiki/Open_source)
 
+## About Me
+
 I'm a backend developer who loves to work on stuff with Linux and cybersecurity.
 
-- Open to project collaborations
-- Contact me at someStranger87@gmail.com
+- 🔭 I’m currently working on **Expanding my knowledge**
+
+- 🌱 I’m currently learning **Frontend development and those fancy memory safe language**
+
+- 👯 I’m looking to collaborate on **Anything**
+
+- 💬 Ask me about **Linux, Python, flask**
+
+- 📫 How to reach me **someStranger87@gmail.com**
 
 ## Languages and tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
