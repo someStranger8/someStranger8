@@ -58,6 +58,8 @@ I'm a backend developer who loves to work on stuff with Linux and cybersecurity.
 ## Spotify last played
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k652xxm3wlk9oa6tslg94vdpn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
+## Random Developer Meme
+![Meme](https://camo.githubusercontent.com/c4fd0a47e2aef618e1a2519250d504c4de4e70ca5894172e8e72abd0cf496e23/68747470733a2f2f72616e646f6d6d656d652d666976652e76657263656c2e6170702f)
 
 ## Github Stats 
 
