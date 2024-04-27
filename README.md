@@ -6,11 +6,11 @@ I'm a backend developer who loves to work on stuff with Linux and cybersecurity.
 
 - 🔭 I’m currently working on **Expanding my knowledge**
 
-- 🌱 I’m currently learning **Frontend development and those fancy memory safe language**
+- 🌱 I’m currently learning **Frontend development and those fancy memory safe languages**
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 💬 Ask me about **Linux, Python, flask**
+- 💬 Ask me about **Linux and Python**
 
 - 📫 How to reach me **someStranger87@gmail.com**
 
