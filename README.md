@@ -14,7 +14,7 @@ I'm a backend developer who loves to work on stuff with Linux and cybersecurity.
 
 - 📫 How to reach me **someStranger87@gmail.com**
 
-## Languages and tools
+## Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
