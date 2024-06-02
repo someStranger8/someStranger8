@@ -4,11 +4,11 @@
 
 I'm a backend developer who loves to work on stuff with Linux and cybersecurity.
 
-- 🔭 I’m currently working on **Expanding my knowledge**
+- 🔭 I’m currently working on **expanding my knowledge**
 
 - 🌱 I’m currently learning **those fancy memory safe languages**
 
-- 👯 I’m looking to collaborate on **Anything**
+- 👯 I’m looking to collaborate on **anything**
 
 - 💬 Ask me about **Linux and Python**
 
