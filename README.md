@@ -52,7 +52,7 @@ I'm a backend developer who loves to work on stuff with Linux and cybersecurity.
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ## Spotify last played
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k652xxm3wlk9oa6tslg94vdpn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=k652xxm3wlk9oa6tslg94vdpn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Github Stats 
 
