@@ -2,7 +2,7 @@
 # Hello 👋
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)](https://en.wikipedia.org/wiki/Open_source)
 
-I'm a backend developer who loves to work on stuff with Linux and cybersecurity.
+I'm a backend developer who loves to work on stuff with Linux.
 
 - 🔭 I’m currently working on **expanding my knowledge**
 
