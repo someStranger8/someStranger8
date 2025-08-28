@@ -2,17 +2,15 @@
 # Hello 👋
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)](https://en.wikipedia.org/wiki/Open_source)
 
+```
+"Low-level programming is good for the programmer's soul."
+- John Carmack
+```
+
 I'm a backend developer who loves to work on stuff with Linux.
+I'm willing to colaborate on anything, just contact me.
 
-- 🔭 I’m currently working on **expanding my knowledge**
-
-- 🌱 I’m currently learning **those fancy memory safe languages**
-
-- 👯 I’m looking to collaborate on **anything**
-
-- 💬 Ask me about **Linux and Python**
-
-- 📫 How to reach me **someStranger87@gmail.com**
+Email me at: **someStranger87@gmail.com**
 
 ## Tools
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
