@@ -10,7 +10,7 @@
 I'm a backend developer who loves to work on stuff with Linux.
 I'm willing to colaborate on anything, just contact me.
 
-Email me at: **someStranger87@gmail.com**
+Email me at: **someStranger87@gmail.com** or my discord is `somestranger8`
 
 ## Tools
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
