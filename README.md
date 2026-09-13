@@ -23,9 +23,3 @@ Email me at: **someStranger87@gmail.com** or my discord is `somestranger8`
 
 ## Spotify last played
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=k652xxm3wlk9oa6tslg94vdpn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
-## Github Stats 
-
-![someStranger8's GitHub stats](https://github-readme-stats.vercel.app/api?username=someStranger8&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someStranger8&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
