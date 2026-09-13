@@ -24,4 +24,4 @@ Email me at: **someStranger87@gmail.com** or my discord is `somestranger8`
 ## Widgets
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=k652xxm3wlk9oa6tslg94vdpn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
-[![Gage's GitHub stats](https://github-stats-extended.vercel.app/api?username=someStranger8)](https://github.com/stats-organization/github-stats-extended)
+[![Gage's GitHub stats](https://github-stats-extended.vercel.app/api?username=someStranger8&theme_dark=dark_github)](https://github.com/stats-organization/github-stats-extended)
